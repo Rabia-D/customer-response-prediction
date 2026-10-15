@@ -36,6 +36,4 @@ Trained **Logistic Regression, Support Vector Machine (SVM), and K-Nearest Neigh
 
 ![Logistic Regression confusion matrix](figures/confusion_matrix.png)
 
-## Project Notebook
 
-[View Python Code, Analysis & Model Evaluation](customer_response_prediction.ipynb)
